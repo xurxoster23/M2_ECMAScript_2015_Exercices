@@ -1,5 +1,5 @@
 # ECMAScript 2015 #
-Channing operator
-mullish coalescence operator
-Proxies
-Desestructuring
+  Channing operator
+  nullish coalescence operator
+  Proxies
+  Desestructuring
