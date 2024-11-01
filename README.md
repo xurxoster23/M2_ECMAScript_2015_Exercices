@@ -1,4 +1,4 @@
-# ECMAScript 2015 \*
+# ECMAScript 2015
 
 - Channing operator
 - nullish coalescence operator
