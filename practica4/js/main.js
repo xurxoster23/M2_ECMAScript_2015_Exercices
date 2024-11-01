@@ -43,7 +43,7 @@ var user1 = new User();
 
 // ** Funciones de Alto Nivel **
 
-// * ForEach *
+// * ForEach() *
 let alumns = [
     {name : 'Laura', surname : 'Lòpez', points : 4.6},
     {name : 'Aritz', surname : 'Aranburu', points : 7},
