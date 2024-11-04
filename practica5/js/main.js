@@ -7,12 +7,12 @@ const login = (name, printMessage) => {
 login('Laura', (name) => {
     console.log('Hola '+ name);
     
-})
+});
 
 login('Laura', (name) => {
     console.log('Hello ' + name);
     
-})
+});
 
 // ** Función callback asíncrona **
 const login1 = (name1, printMessage) => {
@@ -23,8 +23,7 @@ const login1 = (name1, printMessage) => {
 }
 
 login1('Jorge', (name1) => {
-    console.log('Hello ' + name1);
-    
+    console.log('Hello ' + name1);  
 })
 
 
@@ -53,7 +52,7 @@ let getUser = (position,seconds) => {
 
 getUser(0,3) // 2 array[position], return callback in seconds
     .then((data)=>{
-        console.log(data);
+        console.log('Esta es la data: ' + data);
         return data.user
     })
     .then((data)=>{
