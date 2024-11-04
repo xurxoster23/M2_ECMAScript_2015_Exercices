@@ -22,7 +22,7 @@ let author = 'Miguel de Cervantes';
 let title = 'El Quijote';
 
 let bookTitles = `
-    Author : ${author}
+    Author : ${author},
     Título : ${title}
 `;
 

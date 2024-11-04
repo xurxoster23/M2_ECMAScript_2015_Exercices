@@ -15,3 +15,8 @@
 - Función callback asíncrona
 - PROMISES
 - Funciones async - await
+- POO antes de ECMAScript 2015
+  - Literal
+  - Función literal new (constructura)
+- Estandarización después del ECMAScript 2015 para desarrolladores con class
+- Herencia
